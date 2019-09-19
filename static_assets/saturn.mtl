@@ -12,5 +12,5 @@ newmtl 13906_Saturn
 	Kd 1.0000 1.0000 1.0000
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka Saturn.jpg
-	map_Kd Saturn.jpg
+	map_Ka saturn.jpg
+	map_Kd saturn.jpg
