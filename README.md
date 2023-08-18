@@ -1,6 +1,8 @@
 ## Friendly Planets - Flying in Space with VR
 **This is a VR project on virtual Solar system where you can freely explore the virtual galaxy.The project is mainly focused for meeting educational purposes.**
 
+![best](https://github.com/Dipanjan9/dipanjan9.github.io/assets/38534773/7197e2ab-9f2c-487a-ba1b-37f375bc489a)
+
 ## Inspiration - Opening the Door to the Universe's Wonders
 In the tapestry of our childhood dreams, a canvas painted with the vastness of the galaxy often adorned our imagination. Those starry vistas and distant planets, while seemingly out of reach, remain etched in our hearts. We yearn to traverse the cosmos, a realm that beckons with its mysteries and marvels. It's a dream we share, a yearning that unites us, but venturing beyond our world's confines isn't accessible to everyone. Yet, the universe's enchanting dance is a tale that deserves to be told. This tale, woven with technology and dreams, led me to create "**Friendly Planets**."
 "Friendly Planets" emerged from a desire to grant the universe's wonders to all. The stars, planets, and galaxies that once eluded our grasp can now be explored within a virtual realm. This VR project transforms learning into a cosmic odyssey, tailored for students hungry for knowledge and explorers seeking the celestial unknown.
@@ -19,3 +21,4 @@ Upon reflection, an overwhelming sense of pride takes root. This app stands as a
  
 ## What's next for Friendly Planets - Flying in Space with VR
 The journey of Friendly Planets continues to blaze forward, fueled by the twin engines of technology and human curiosity. Voice command integration represents a stepping stone in the evolution of this virtual voyage. As the cosmic tapestry unfurls, the horizon is alive with possibilities, and I am excited to witness the fusion of innovation, exploration, and the universe itself.
+
